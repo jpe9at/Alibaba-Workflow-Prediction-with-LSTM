@@ -1,0 +1,1 @@
+{"optimizer": "Adam", "learning_rate": 0.001836738089655142, "batch_size": 128, "hidden_size": 128, "hidden_size_2": 16, "l2_rate": 0.005, "loss": "Huber", "window_size": 20, "gradient_clip": 1.0, "scheduler": null, "num_layers": 2}
